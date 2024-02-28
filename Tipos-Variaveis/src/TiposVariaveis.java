@@ -7,7 +7,7 @@ public class TiposVariaveis {
 
      
 
-        System.out.println( VALOR_DE_PI+"Hello, World! " + salarioMinimo );
+        System.out.println( numeroNormal+VALOR_DE_PI+"Hello, World! " + salarioMinimo );
 
         
     }
