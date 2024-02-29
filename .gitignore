@@ -24,3 +24,5 @@ hs_err_pid*
 replay_pid*
 Tipos-Variaveis/.vscode/settings.json
 Tipos-Variaveis/Operadores/.vscode/settings.json
+MyClass/.vscode/launch.json
+MyClass/.vscode/settings.json
